@@ -1,0 +1,29 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+  "version": "2.11.1",
+  "background": {
+    "persistent": false,
+    "scripts": [
+      "scripts/namespace.js",
+      "data/imageIds.json",
+      "scripts/onInstall.js"
+    ]
+  },
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "content_security_policy": "script-src 'self' https://www.google-analytics.com; object-src 'self'",
+  "description": "Experience a beautiful image from Google Earth every time you open a new tab.",
+  "icons": {
+    "16": "images/icon-16.png",
+    "48": "images/icon-48.png",
+    "128": "images/icon-128.png"
+  },
+  "incognito": "split",
+  "manifest_version": 2,
+  "name": "Earth View from Google Earth",
+  "permissions": [
+    "https://www.gstatic.com/prettyearth/*"
+  ]
+}
