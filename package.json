@@ -1,0 +1,22 @@
+{
+  "name": "earthview",
+  "version": "1.0.0",
+  "description": "Earth View displays a beautiful Satellite image from Google Earth every time you open a new tab.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@xwartz.github.com:xwartz/earthview.git"
+  },
+  "keywords": [
+    "Earth",
+    "View",
+    "tab",
+    "chrome",
+    "extension"
+  ],
+  "author": "xwartz",
+  "license": "MIT"
+}
