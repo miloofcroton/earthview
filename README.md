@@ -8,5 +8,8 @@ In November Object.observe proposal was withdrawn from TC39.
 
 Although it may still work in old Chrome browsers, but it had removed at Chrome Canary version 51.0.2668.0 canary (64-bit). So I add Object.observe polyfill for it.
 
+## download
+[earthview](https://github.com/xwartz/earthview/releases)
+
 ## License
 @[Google Earth](https://earthview.withgoogle.com)
