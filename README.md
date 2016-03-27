@@ -1,6 +1,6 @@
 # earthview
 Experience a beautiful image from Google Earth every time you open a new tab.
-
+![](https://lh3.googleusercontent.com/YCfSnpvQUOUOseQlyHiyzsZIuRPKaZMEzcEtGb9FM_a-HQ035dkD8E1krD2bX0bhzUuVez6a_Q=s1280-h800-e365-rw)
 
 The official version [Earth View from Google Earth](https://chrome.google.com/webstore/detail/earth-view-from-google-ea/bhloflhklmhfpedakmangadcdofhnnoh) based on Object.observe, and it stopped working in the latest update to Canary.
 
