@@ -8,8 +8,15 @@ In November Object.observe proposal was withdrawn from TC39.
 
 Although it may still work in old Chrome browsers, but it had removed at Chrome Canary version 51.0.2668.0 canary (64-bit). So I add Object.observe polyfill for it.
 
+
 ## download
 [earthview](https://github.com/xwartz/earthview/releases)
+
+## Installation
+1. download the `.zip` file and extract/unzip the code somewhere
+2. open the tab `chrome://extensions/`
+3. click the “Developer mode” checkbox
+4. click the button labeled “Load unpacked extension…” or drag the file to the tab
 
 ## License
 @[Google Earth](https://earthview.withgoogle.com)
