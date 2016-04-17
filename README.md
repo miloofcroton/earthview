@@ -19,4 +19,4 @@ Although it may still work in old Chrome browsers, but it had removed at Chrome 
 4. click the button labeled “Load unpacked extension…” or drag the file to the tab
 
 ## License
-@[Google Earth](https://earthview.withgoogle.com)
+MIT
