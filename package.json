@@ -18,5 +18,8 @@
     "extension"
   ],
   "author": "xwartz",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "object.observe": "^0.2.6"
+  }
 }
