@@ -1,7 +1,7 @@
 {
 "update_url": "https://clients2.google.com/service/update2/crx",
 
-  "version": "2.11.1",
+  "version": "2.12.1",
   "background": {
     "persistent": false,
     "scripts": [
